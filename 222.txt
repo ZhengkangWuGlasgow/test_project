@@ -1,3 +1,6 @@
 this is a test
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2070fdec50cfad2ba875109ef1f3c8d774870767
 this is a test
